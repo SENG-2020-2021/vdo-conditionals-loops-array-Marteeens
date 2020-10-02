@@ -14,6 +14,6 @@ class Main {
    // calculate amount the debtor is left to pay if he did not pay complete fees and the days not paid for or  check if the debtor paid extra and the extra amount he paid for, or if he paid the exact amount needed to be paid and print likewise
 
    //kindly remove the statement below when you are done with the assignment
-    System.out.println("Hello world!");
+
   }
 }
